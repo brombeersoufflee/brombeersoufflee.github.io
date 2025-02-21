@@ -1,0 +1,302 @@
+Jaar,Auto_Naam,Verkoop_Prijs,Actuele_Prijs,Kms_gereden,Brandstof,Verkoper,Schakeling
+2014,ritz,33500.0,55900.0,27000,Benzine,Dealer,Manual
+2013,sx4,47500.0,95399.99999999999,43000,Diesel,Dealer,Manual
+2017,ciaz,72500.0,98500.0,6900,Benzine,Dealer,Manual
+2011,wagon r,28500.0,41500.0,5200,Benzine,Dealer,Manual
+2014,swift,46000.0,68700.0,42450,Diesel,Dealer,Manual
+2018,vitara brezza,92500.0,98300.0,2071,Diesel,Dealer,Manual
+2015,ciaz,67500.0,81199.99999999999,18796,Benzine,Dealer,Manual
+2015,s cross,65000.0,86100.0,33429,Diesel,Dealer,Manual
+2016,ciaz,87500.0,88900.0,20273,Diesel,Dealer,Manual
+2015,ciaz,74500.0,89200.0,42367,Diesel,Dealer,Manual
+2017,alto 800,28500.0,36000.0,2135,Benzine,Dealer,Manual
+2015,ciaz,68500.0,103800.00000000001,51000,Diesel,Dealer,Manual
+2015,ciaz,75000.0,99400.0,15000,Benzine,Dealer,Automatic
+2015,ertiga,61000.0,77100.0,26000,Benzine,Dealer,Manual
+2009,dzire,22500.0,72100.0,77427,Benzine,Dealer,Manual
+2016,ertiga,77500.0,107899.99999999999,43000,Diesel,Dealer,Manual
+2015,ertiga,72500.0,107899.99999999999,41678,Diesel,Dealer,Manual
+2016,ertiga,77500.0,107899.99999999999,43000,Diesel,Dealer,Manual
+2015,wagon r,32500.0,50900.0,35500,CNG,Dealer,Manual
+2010,sx4,26500.0,79800.0,41442,Benzine,Dealer,Manual
+2016,alto k10,28500.0,39500.0,25000,Benzine,Dealer,Manual
+2017,ignis,49000.0,57100.0,2400,Benzine,Dealer,Manual
+2011,sx4,44000.0,80100.0,50000,Benzine,Dealer,Automatic
+2014,alto k10,25000.0,34600.0,45280,Benzine,Dealer,Manual
+2013,wagon r,29000.0,44100.0,56879,Benzine,Dealer,Manual
+2011,swift,30000.0,49900.0,20000,Benzine,Dealer,Manual
+2013,swift,41500.0,58700.0,55138,Benzine,Dealer,Manual
+2017,swift,60000.0,64900.0,16200,Benzine,Individual,Manual
+2010,alto k10,19500.0,39500.0,44542,Benzine,Dealer,Manual
+2015,ciaz,74500.0,103800.00000000001,45000,Diesel,Dealer,Manual
+2012,ritz,31000.0,59800.00000000001,51439,Diesel,Dealer,Manual
+2011,ritz,23500.0,48900.0,54200,Benzine,Dealer,Manual
+2014,swift,49500.0,74900.0,39000,Diesel,Dealer,Manual
+2014,ertiga,60000.0,99500.0,45000,Diesel,Dealer,Manual
+2014,dzire,55000.0,80600.0,45000,Diesel,Dealer,Manual
+2011,sx4,29500.0,77400.0,49998,CNG,Dealer,Manual
+2015,dzire,46500.0,72000.0,48767,Benzine,Dealer,Manual
+2003,800,3500.0,22799.999999999996,127000,Benzine,Individual,Manual
+2016,alto k10,30000.0,37600.0,10079,Benzine,Dealer,Manual
+2003,sx4,22500.0,79800.0,62000,Benzine,Dealer,Manual
+2016,baleno,58500.0,78700.0,24524,Benzine,Dealer,Automatic
+2014,alto k10,25500.0,39800.0,46706,Benzine,Dealer,Manual
+2008,sx4,19500.0,71500.0,58000,Benzine,Dealer,Manual
+2014,dzire,55000.0,80600.0,45780,Diesel,Dealer,Manual
+2012,omni,12500.0,26900.0,50000,Benzine,Dealer,Manual
+2014,ciaz,75000.0,120399.99999999999,15000,Benzine,Dealer,Automatic
+2013,ritz,26500.0,48900.0,64532,Benzine,Dealer,Manual
+2006,wagon r,10500.0,41500.0,65000,Benzine,Dealer,Manual
+2015,ertiga,58000.0,77100.0,25870,Benzine,Dealer,Manual
+2017,ciaz,77500.0,92899.99999999999,37000,Benzine,Dealer,Automatic
+2012,fortuner,149000.0,306100.0,104707,Diesel,Dealer,Automatic
+2015,fortuner,230000.0,306100.0,40000,Diesel,Dealer,Automatic
+2017,innova,180000.0,197700.0,15000,Diesel,Dealer,Automatic
+2013,fortuner,160000.0,306100.0,135000,Diesel,Individual,Automatic
+2005,innova,27500.0,102100.00000000001,90000,Benzine,Individual,Manual
+2009,corolla altis,36000.0,150400.0,70000,Benzine,Dealer,Automatic
+2015,etios cross,45000.0,72700.0,40534,Benzine,Dealer,Manual
+2010,corolla altis,47500.0,185400.0,50000,Benzine,Dealer,Manual
+2014,etios g,41000.0,68000.0,39485,Benzine,Dealer,Manual
+2014,fortuner,199899.99999999997,359600.0,41000,Diesel,Dealer,Automatic
+2013,corolla altis,69500.0,186100.0,40001,Benzine,Dealer,Manual
+2015,etios cross,45000.0,77000.0,40588,Benzine,Dealer,Manual
+2014,fortuner,187500.0,359600.0,78000,Diesel,Dealer,Automatic
+2015,fortuner,235000.0,359600.0,47000,Diesel,Dealer,Automatic
+2017,fortuner,330000.0,362299.99999999994,6000,Diesel,Dealer,Automatic
+2014,etios liva,47500.0,69500.0,45000,Diesel,Dealer,Manual
+2017,innova,197500.0,231500.0,11000,Benzine,Dealer,Automatic
+2010,fortuner,92500.0,204500.0,59000,Diesel,Dealer,Manual
+2011,corolla altis,43500.0,137400.0,88000,Benzine,Dealer,Manual
+2016,corolla altis,142500.0,209100.0,12000,Benzine,Dealer,Manual
+2014,etios liva,39500.0,67600.0,71000,Diesel,Dealer,Manual
+2011,corolla altis,45000.0,124800.0,45000,Diesel,Dealer,Manual
+2013,corolla altis,74500.0,186100.0,56001,Benzine,Dealer,Manual
+2011,etios liva,26500.0,57100.0,43000,Benzine,Dealer,Manual
+2014,etios cross,49000.0,89300.0,83000,Diesel,Dealer,Manual
+2015,etios g,39500.0,68000.0,36000,Benzine,Dealer,Manual
+2013,corolla altis,55000.0,146800.0,72000,Benzine,Dealer,Manual
+2004,corolla,15000.0,123500.0,135154,Benzine,Dealer,Automatic
+2010,corolla altis,52500.0,228299.99999999997,80000,Benzine,Dealer,Automatic
+2012,fortuner,145000.0,306100.0,89000,Diesel,Dealer,Automatic
+2016,corolla altis,147300.0,148900.0,23000,Diesel,Dealer,Manual
+2015,etios gd,47500.0,78500.0,40000,Diesel,Dealer,Manual
+2017,innova,230000.0,253900.0,15000,Diesel,Dealer,Automatic
+2015,innova,125000.0,134600.0,38000,Diesel,Dealer,Manual
+2005,innova,34900.0,134600.0,197176,Diesel,Dealer,Manual
+2006,camry,25000.0,237300.0,142000,Benzine,Individual,Automatic
+2010,land cruiser,350000.0,926000.0,78000,Diesel,Dealer,Manual
+2012,corolla altis,59000.0,137400.0,56000,Benzine,Dealer,Manual
+2013,etios liva,34500.0,60500.0,47000,Benzine,Dealer,Manual
+2014,etios g,47500.0,67600.0,40000,Benzine,Dealer,Manual
+2009,corolla altis,38000.0,186100.0,62000,Benzine,Dealer,Manual
+2014,innova,112500.0,160900.0,58242,Diesel,Dealer,Manual
+2005,innova,35100.0,137000.0,75000,Benzine,Dealer,Manual
+2015,fortuner,230000.0,306100.0,40000,Diesel,Dealer,Automatic
+2008,corolla altis,40000.0,227800.0,89000,Benzine,Dealer,Automatic
+2012,corolla altis,58500.0,186100.0,72000,Benzine,Dealer,Manual
+2016,innova,207500.0,253900.0,29000,Diesel,Dealer,Automatic
+2017,corolla altis,170000.0,186400.0,8700,Benzine,Dealer,Manual
+2013,corolla altis,70500.0,186100.0,45000,Benzine,Dealer,Manual
+2010,fortuner,96500.0,204500.0,50024,Diesel,Dealer,Manual
+2016,Royal Enfield Thunder 500,17500.0,19000.0,3000,Benzine,Individual,Manual
+2017,UM Renegade Mojave,17000.0,18200.0,1400,Benzine,Individual,Manual
+2017,KTM RC200,16500.0,17800.0,4000,Benzine,Individual,Manual
+2017,Bajaj Dominar 400,14500.0,16000.0,1200,Benzine,Individual,Manual
+2017,Royal Enfield Classic 350,13500.0,14700.0,4100,Benzine,Individual,Manual
+2015,KTM RC390,13500.0,23700.0,21700,Benzine,Individual,Manual
+2014,Hyosung GT250R,13500.0,34500.0,16500,Benzine,Individual,Manual
+2013,Royal Enfield Thunder 350,12500.0,15000.0,15000,Benzine,Individual,Manual
+2016,Royal Enfield Thunder 350,12000.0,15000.0,18000,Benzine,Individual,Manual
+2017,Royal Enfield Classic 350,12000.0,14700.0,11000,Benzine,Individual,Manual
+2016,KTM RC200,12000.0,17800.0,6000,Benzine,Individual,Manual
+2016,Royal Enfield Thunder 350,11500.0,15000.0,8700,Benzine,Individual,Manual
+2014,KTM 390 Duke ,11500.0,24000.0,7000,Benzine,Individual,Manual
+2016,Mahindra Mojo XT300,11500.0,14000.0,35000,Benzine,Individual,Manual
+2015,Royal Enfield Classic 350,11500.0,14700.0,17000,Benzine,Individual,Manual
+2015,Royal Enfield Classic 350,11100.000000000002,14700.0,17500,Benzine,Individual,Manual
+2013,Royal Enfield Classic 350,11000.0,14700.0,33000,Benzine,Individual,Manual
+2015,Royal Enfield Thunder 500,11000.0,19000.0,14000,Benzine,Individual,Manual
+2015,Royal Enfield Classic 350,11000.0,14700.0,26000,Benzine,Individual,Manual
+2013,Royal Enfield Thunder 500,10500.0,19000.0,5400,Benzine,Individual,Manual
+2016,Bajaj Pulsar RS200,10500.0,12600.0,5700,Benzine,Individual,Manual
+2011,Royal Enfield Thunder 350,10500.0,15000.0,6900,Benzine,Individual,Manual
+2016,Royal Enfield Bullet 350,10500.0,11700.0,6000,Benzine,Individual,Manual
+2013,Royal Enfield Classic 350,10000.0,14700.0,46500,Benzine,Individual,Manual
+2012,Royal Enfield Classic 500,9500.0,17500.0,11500,Benzine,Individual,Manual
+2009,Royal Enfield Classic 500,9000.0,17500.0,40000,Benzine,Individual,Manual
+2017,Bajaj Avenger 220,9000.0,9500.0,1300,Benzine,Individual,Manual
+2016,Bajaj Avenger 150,7500.0,8000.0,7000,Benzine,Individual,Manual
+2017,Honda CB Hornet 160R,8000.0,8700.0,3000,Benzine,Individual,Manual
+2017,Yamaha FZ S V 2.0,7800.0,8400.0,5000,Benzine,Individual,Manual
+2017,Honda CB Hornet 160R,7500.0,8700.0,11000,Benzine,Individual,Manual
+2015,Yamaha FZ 16,7500.0,8200.0,18000,Benzine,Individual,Manual
+2017,Bajaj Avenger 220,7500.0,9500.0,3500,Benzine,Individual,Manual
+2016,Bajaj Avenger 220,7200.0,9500.0,500,Benzine,Individual,Manual
+2017,TVS Apache RTR 160,6500.0,8100.000000000001,11800,Benzine,Individual,Manual
+2015,Bajaj Pulsar 150,6500.0,7400.0,5000,Benzine,Individual,Manual
+2014,Honda CBR 150,6500.0,12000.0,23500,Benzine,Individual,Manual
+2013,Hero Extreme,6500.0,7870.0,16000,Benzine,Individual,Manual
+2016,Honda CB Hornet 160R,6000.0,8700.0,15000,Benzine,Individual,Manual
+2015,Bajaj Avenger 220 dtsi,6000.0,9500.0,16600,Benzine,Individual,Manual
+2013,Honda CBR 150,6000.0,12000.0,32000,Benzine,Individual,Manual
+2016,Bajaj Avenger 150 street,6000.0,8000.0,20000,Benzine,Individual,Manual
+2015,Yamaha FZ  v 2.0,6000.0,8400.0,29000,Benzine,Individual,Manual
+2016,Yamaha FZ  v 2.0,6000.0,8400.0,25000,Benzine,Individual,Manual
+2014,Bajaj Pulsar  NS 200,6000.0,9900.0,25000,Benzine,Individual,Manual
+2012,TVS Apache RTR 160,6000.0,8100.000000000001,19000,Benzine,Individual,Manual
+2014,Hero Extreme,5500.0,7870.0,15000,Benzine,Individual,Manual
+2015,Yamaha FZ S V 2.0,5500.0,8400.0,58000,Benzine,Individual,Manual
+2010,Bajaj Pulsar 220 F,5200.0,9400.0,45000,Benzine,Individual,Manual
+2016,Bajaj Pulsar 220 F,5100.0,9400.0,24000,Benzine,Individual,Manual
+2011,TVS Apache RTR 180,5000.0,8260.0,6000,Benzine,Individual,Manual
+2016,Hero Passion X pro,5000.0,5500.0,31000,Benzine,Individual,Manual
+2012,Bajaj Pulsar NS 200,5000.0,9900.0,13000,Benzine,Individual,Manual
+2013,Bajaj Pulsar NS 200,5000.0,9900.0,45000,Benzine,Individual,Manual
+2014,Yamaha Fazer ,5000.0,8800.0,8000,Benzine,Individual,Manual
+2017,Honda Activa 4G,4800.0,5100.0,4300,Benzine,Individual,Automatic
+2017,TVS Sport ,4800.0,5200.0,15000,Benzine,Individual,Manual
+2015,Yamaha FZ S V 2.0,4800.0,8400.0,23000,Benzine,Individual,Manual
+2017,Honda Dream Yuga ,4800.0,5400.0,8600,Benzine,Individual,Manual
+2017,Honda Activa 4G,4500.0,5100.0,4000,Benzine,Individual,Automatic
+2011,Bajaj Avenger Street 220,4500.0,9500.0,24000,Benzine,Individual,Manual
+2014,TVS Apache RTR 180,4500.0,8260.0,23000,Benzine,Individual,Manual
+2012,Bajaj Pulsar NS 200,4500.0,9900.0,14500,Benzine,Individual,Manual
+2010,Bajaj Avenger 220 dtsi,4500.0,9500.0,27000,Benzine,Individual,Manual
+2016,Hero Splender iSmart,4500.0,5400.0,14000,Benzine,Individual,Manual
+2016,Activa 3g,4500.0,5400.0,500,Benzine,Individual,Automatic
+2016,Hero Passion Pro,4500.0,5500.0,1000,Benzine,Individual,Manual
+2014,TVS Apache RTR 160,4200.0,8100.000000000001,42000,Benzine,Individual,Manual
+2013,Honda CB Trigger,4200.0,7300.0,12000,Benzine,Individual,Manual
+2015,Hero Splender iSmart,4000.0,5400.0,14000,Benzine,Individual,Manual
+2012,Yamaha FZ S ,4000.0,8300.0,5500,Benzine,Individual,Manual
+2015,Hero Passion Pro,4000.0,5500.0,6700,Benzine,Individual,Manual
+2014,Bajaj Pulsar 135 LS,4000.0,6400.0,13700,Benzine,Individual,Manual
+2017,Activa 4g,4000.0,5100.0,1300,Benzine,Individual,Automatic
+2015,Honda CB Unicorn,3800.0,7200.0,38600,Benzine,Individual,Manual
+2011,Hero Honda CBZ extreme,3800.0,7870.0,75000,Benzine,Individual,Manual
+2011,Honda Karizma,3500.0,10500.0,30000,Benzine,Individual,Manual
+2016,Honda Activa 125,3500.0,5699.999999999999,24000,Benzine,Individual,Automatic
+2014,TVS Jupyter,3500.0,5200.0,19000,Benzine,Individual,Automatic
+2010,Honda Karizma,3100.0,10500.0,213000,Benzine,Individual,Manual
+2012,Hero Honda Passion Pro,3000.0,5100.0,60000,Benzine,Individual,Manual
+2016,Hero Splender Plus,3000.0,4800.0,50000,Benzine,Individual,Manual
+2013,Honda CB Shine,3000.0,5800.0,30000,Benzine,Individual,Manual
+2013,Bajaj Discover 100,2700.0,4700.0,21000,Benzine,Individual,Manual
+2008,Bajaj Pulsar 150,2500.0,7500.0,26000,Benzine,Individual,Manual
+2008,Suzuki Access 125,2500.0,5800.0,1900,Benzine,Individual,Automatic
+2010,TVS Wego,2500.0,5200.0,22000,Benzine,Individual,Automatic
+2013,Honda CB twister,2500.0,5100.0,32000,Benzine,Individual,Manual
+2013,Hero Glamour,2500.0,5699.999999999999,18000,Benzine,Individual,Manual
+2005,Hero Super Splendor,2000.0,5699.999999999999,55000,Benzine,Individual,Manual
+2008,Bajaj Pulsar 150,2000.0,7500.0,60000,Benzine,Individual,Manual
+2012,Bajaj Discover 125,2000.0,5699.999999999999,25000,Benzine,Individual,Manual
+2007,Hero Hunk,2000.0,7500.0,49000,Benzine,Individual,Manual
+2013,Hero  Ignitor Disc,2000.0,6500.0,24000,Benzine,Individual,Manual
+2008,Hero  CBZ Xtreme,2000.0,7870.0,50000,Benzine,Individual,Manual
+2015,Bajaj  ct 100,1800.0,3200.0,35000,Benzine,Individual,Manual
+2008,Activa 3g,1700.0000000000002,5200.0,500000,Benzine,Individual,Automatic
+2010,Honda CB twister,1600.0,5100.0,33000,Benzine,Individual,Manual
+2011,Bajaj Discover 125,1500.0,5699.999999999999,35000,Benzine,Individual,Manual
+2007,Honda CB Shine,1200.0,5800.0,53000,Benzine,Individual,Manual
+2006,Bajaj Pulsar 150,1000.0,7500.0,92233,Benzine,Individual,Manual
+2010,i20,32500.0,67900.0,58000,Diesel,Dealer,Manual
+2015,grand i10,44000.0,57000.0,28200,Benzine,Dealer,Manual
+2011,i10,29500.0,46000.0,53460,Benzine,Dealer,Manual
+2015,eon,27500.0,44300.0,28282,Benzine,Dealer,Manual
+2016,grand i10,52500.0,57000.0,3493,Benzine,Dealer,Manual
+2017,xcent,57500.0,71300.0,12479,Benzine,Dealer,Manual
+2015,grand i10,51500.0,57000.0,34797,Benzine,Dealer,Automatic
+2017,i20,79000.0,81000.0,3435,Benzine,Dealer,Manual
+2015,grand i10,48500.0,57000.0,21125,Diesel,Dealer,Manual
+2012,i10,31000.0,46000.0,35775,Benzine,Dealer,Manual
+2015,elantra,117500.0,147900.0,43535,Diesel,Dealer,Manual
+2016,creta,112500.0,136000.0,22671,Benzine,Dealer,Manual
+2011,i20,29000.0,67900.0,31604,Benzine,Dealer,Manual
+2017,grand i10,52500.0,57000.0,20114,Benzine,Dealer,Manual
+2012,verna,45000.0,94000.0,36100,Benzine,Dealer,Manual
+2016,eon,29000.0,44300.0,12500,Benzine,Dealer,Manual
+2016,eon,31500.0,44300.0,15000,Benzine,Dealer,Manual
+2014,verna,64500.0,94000.0,45078,Benzine,Dealer,Manual
+2012,verna,45000.0,94000.0,36000,Benzine,Dealer,Manual
+2017,eon,35000.0,44300.0,38488,Benzine,Dealer,Manual
+2013,i20,45000.0,67900.0,32000,Benzine,Dealer,Automatic
+2014,i20,60000.0,76000.0,77632,Diesel,Dealer,Manual
+2015,verna,82500.0,94000.0,61381,Diesel,Dealer,Manual
+2013,verna,51100.0,94000.0,36198,Benzine,Dealer,Automatic
+2011,i10,27000.0,46000.0,22517,Benzine,Dealer,Manual
+2015,grand i10,52500.0,57000.0,24678,Benzine,Dealer,Manual
+2011,i10,25500.0,44300.0,57000,Benzine,Dealer,Manual
+2012,verna,49500.0,94000.0,60000,Diesel,Dealer,Manual
+2012,i20,31000.0,67900.0,52132,Diesel,Dealer,Manual
+2013,verna,61500.0,94000.0,45000,Diesel,Dealer,Manual
+2017,verna,92500.0,94000.0,15001,Benzine,Dealer,Manual
+2015,elantra,114500.0,147900.0,12900,Benzine,Dealer,Automatic
+2013,grand i10,39000.0,57000.0,53000,Diesel,Dealer,Manual
+2015,grand i10,55000.0,57000.0,4492,Benzine,Dealer,Manual
+2017,verna,91000.0,94000.0,15141,Benzine,Dealer,Manual
+2016,eon,31000.0,44300.0,11849,Benzine,Dealer,Manual
+2015,creta,112500.0,136000.0,68000,Diesel,Dealer,Manual
+2013,verna,48000.0,94000.0,60241,Benzine,Dealer,Manual
+2012,eon,20000.0,44300.0,23709,Benzine,Dealer,Manual
+2012,verna,53500.0,94000.0,32322,Diesel,Dealer,Manual
+2015,xcent,47500.0,71300.0,35866,Benzine,Dealer,Manual
+2014,xcent,44000.0,71300.0,34000,Benzine,Dealer,Manual
+2016,i20,62500.0,76000.0,7000,Benzine,Dealer,Manual
+2013,verna,59500.0,94000.0,49000,Diesel,Dealer,Manual
+2012,verna,52000.0,94000.0,71000,Diesel,Dealer,Manual
+2012,i20,37500.0,67900.0,35000,Benzine,Dealer,Manual
+2015,verna,59500.0,94000.0,36000,Benzine,Dealer,Manual
+2013,i10,40000.0,46000.0,30000,Benzine,Dealer,Manual
+2016,i20,52500.0,76000.0,17000,Benzine,Dealer,Manual
+2016,creta,129000.0,136000.0,35934,Diesel,Dealer,Manual
+2013,city,50000.0,99000.0,56701,Benzine,Dealer,Manual
+2015,brio,54000.0,68200.0,31427,Benzine,Dealer,Automatic
+2014,city,72000.0,99000.0,48000,Diesel,Dealer,Manual
+2013,city,52500.0,99000.0,54242,Benzine,Dealer,Manual
+2012,brio,30000.0,53500.0,53675,Benzine,Dealer,Manual
+2016,city,102500.0,136000.0,49562,Benzine,Dealer,Manual
+2015,city,85000.0,136000.0,40324,Benzine,Dealer,Manual
+2015,city,84000.0,136000.0,25000,Benzine,Dealer,Manual
+2014,amaze,39000.0,70000.0,36054,Benzine,Dealer,Manual
+2016,city,91500.0,136000.0,29223,Benzine,Dealer,Manual
+2016,brio,55000.0,59700.0,5600,Benzine,Dealer,Manual
+2015,amaze,40000.0,58000.0,40023,Benzine,Dealer,Manual
+2016,jazz,66000.0,77000.0,16002,Benzine,Dealer,Manual
+2015,amaze,40000.0,70000.0,40026,Benzine,Dealer,Manual
+2017,jazz,65000.0,87000.0,21200,Benzine,Dealer,Manual
+2014,amaze,36500.0,70000.0,35000,Benzine,Dealer,Manual
+2016,city,83500.0,94000.0,19434,Diesel,Dealer,Manual
+2017,brio,48000.0,58000.0,19000,Benzine,Dealer,Manual
+2015,city,67000.0,100000.0,18828,Benzine,Dealer,Manual
+2011,city,41000.0,100000.0,69341,Benzine,Dealer,Manual
+2009,city,30000.0,100000.0,69562,Benzine,Dealer,Manual
+2015,city,75000.0,100000.0,27600,Benzine,Dealer,Manual
+2010,jazz,22500.0,75000.0,61203,Benzine,Dealer,Manual
+2014,brio,53000.0,68000.0,16500,Benzine,Dealer,Manual
+2016,city,109000.0,136000.0,30753,Benzine,Dealer,Automatic
+2015,city,86500.0,136000.0,24800,Benzine,Dealer,Manual
+2015,city,97000.0,136000.0,21780,Benzine,Dealer,Manual
+2016,jazz,60000.0,84000.0,4000,Benzine,Dealer,Manual
+2014,city,62500.0,136000.0,40126,Benzine,Dealer,Manual
+2015,brio,52500.0,59000.0,14465,Benzine,Dealer,Manual
+2006,city,21000.0,76000.0,50456,Benzine,Dealer,Manual
+2014,city,82500.0,140000.0,63000,Diesel,Dealer,Manual
+2016,city,89900.0,118000.0,9010,Benzine,Dealer,Manual
+2013,brio,35000.0,59000.0,9800,Benzine,Dealer,Manual
+2016,jazz,74000.0,85000.0,15059,Benzine,Dealer,Automatic
+2016,jazz,56500.0,79000.0,28569,Benzine,Dealer,Manual
+2015,amaze,57500.0,75000.0,44000,Benzine,Dealer,Automatic
+2015,city,84000.0,136000.0,34000,Benzine,Dealer,Manual
+2016,city,101100.0,136000.0,10980,Benzine,Dealer,Manual
+2014,amaze,45000.0,64000.0,19000,Benzine,Dealer,Manual
+2015,brio,54000.0,61000.0,31427,Benzine,Dealer,Manual
+2016,jazz,64000.0,84000.0,12000,Benzine,Dealer,Manual
+2010,city,32500.0,99000.0,38000,Benzine,Dealer,Manual
+2014,amaze,37500.0,68000.0,33019,Benzine,Dealer,Manual
+2015,city,85500.0,130900.0,60076,Diesel,Dealer,Manual
+2016,city,95000.0,116000.0,33988,Diesel,Dealer,Manual
+2015,brio,40000.0,59000.0,60000,Benzine,Dealer,Manual
+2009,city,33500.0,110000.0,87934,Benzine,Dealer,Manual
+2017,city,115000.0,125000.0,9000,Diesel,Dealer,Manual
+2016,brio,53000.0,59000.0,5464,Benzine,Dealer,Manual
