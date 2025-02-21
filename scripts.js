@@ -208,14 +208,15 @@ function updateColumnsDropdown(columns) {
 }
 
 document.getElementById('data-view-tab').addEventListener('click', function () {
-    refreshDataView();
+    refreshDataView('data-view');
 });
 
+//add a new tab to the existing site
 document.getElementById('linear-regression-tab').addEventListener('click', function () {
-    refreshDataView();
+    refreshDataView('linear-regression');
 });
 
-function refreshDataView() {
+function refreshDataView(tabtype) {
     if (current_df != null) {
         try {
             let data = current_df;
@@ -242,7 +243,7 @@ function refreshDataView() {
                 tableBody.appendChild(tr);
             })
             ;
-            var surroundingDiv = document.getElementById('data-view')
+            var surroundingDiv = document.getElementById(tabtype)
         } catch (error) {
             console.error('Error:', error.message);
             alert('An error occurred: ' + error.message);
