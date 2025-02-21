@@ -42,9 +42,13 @@
                        role="tab"
                        aria-controls="data-manipulation" aria-selected="false">Data Manipuleren</a>
                 </li>
+                <!-- New Linear Regression Tab -->
+                <li class="nav-item">
+                    <a class="nav-link" id="linear-regression-tab" data-toggle="tab" href="#linear-regression" role="tab"
+                       aria-controls="linear-regression" aria-selected="false">Lineaire Regressie</a>
+                </li>
             </ul>
         </div>
-
     </div>
 
     <!-- Tab Content -->
@@ -73,10 +77,6 @@
                         <option value="pie">Cirkeldiagram</option>
                     </select>
                 </div>
-                <!--            <div class="form-group col-md-2">-->
-                <!--                <label for="bins-input">Klassen</label>-->
-                <!--                <input type="number" id="bins-input" value="30" min="1" max="100" class="form-control">-->
-                <!--            </div>-->
                 <div class="form-group col-md-2">
                     <button id="plot-btn" class="btn btn-success btn-block">Plotten</button>
                 </div>
@@ -110,13 +110,11 @@
             <div id="manipulation-controls" class="checkbox-container">
                 <button class="btn btn-secondary" onclick="addOperation('mean')">Gemiddelde</button>
                 <button class="btn btn-secondary" onclick="addOperation('median')">Mediaan</button>
-                <!--                <button class="btn btn-secondary" onclick="addOperation('std')">Standaarddeviatie</button>-->
                 <button class="btn btn-secondary" onclick="addOperation('square')">Kwadraat</button>
                 <button class="btn btn-secondary" onclick="addOperation('add')">Kolommen Optellen</button>
                 <button class="btn btn-secondary" onclick="addOperation('subtract')">Kolommen Aftrekken</button>
                 <button class="btn btn-secondary" onclick="addOperation('multiply')">Kolommen Vermenigvuldigen</button>
                 <button class="btn btn-secondary" onclick="addOperation('divide')">Kolommen Delen</button>
-                <!--                <button class="btn btn-secondary" onclick="addOperation('one_hot_encode')">One-hot Codering</button>-->
                 <button class="btn btn-secondary" onclick="addOperation('greater_than')">Groter Dan Waarde</button>
                 <button class="btn btn-secondary" onclick="addOperation('smaller_than')">Kleiner Dan Waarde</button>
                 <button class="btn btn-secondary" onclick="addOperation('equals')">Gelijk Aan Waarde</button>
@@ -162,6 +160,33 @@
                     </table>
                 </div>
             </div>
+        </div>
+
+        <!-- Linear Regression Tab (same as Data Visualization) -->
+        <div class="tab-pane fade" id="linear-regression" role="tabpanel" aria-labelledby="linear-regression-tab"
+             style="margin: 10px;">
+            <div class="checkbox-container" id="columns"></div>
+            <div class="form-row align-items-end" style="justify-content: center">
+                <div class="form-group col-md-3">
+                    <label for="x-axis-select">X-as Kolom </label>
+                    <select id="x-axis-select" class="form-control">
+                        <option value="">Kies X-as Kolom</option>
+                    </select>
+                </div>
+                <div class="form-group col-md-3">
+                    <label for="plot-type-select">Diagram Type</label>
+                    <select id="plot-type-select" class="form-control">
+                        <option value="scatter">Spreidingsdiagram</option>
+                    </select>
+                </div>
+                <div class="form-group col-md-2">
+                    <button id="plot-btn" class="btn btn-success btn-block">Plotten</button>
+                </div>
+                <div class="form-group col-md-2">
+                    <button id="clear-btn" class="btn btn-primary btn-block">Verwijderen</button>
+                </div>
+            </div>
+            <div id="plotly-position"></div>
         </div>
     </div>
     <div id="loading" style="background-color: white; position: absolute; top: 0;bottom: 0; left: 0;right: 0">

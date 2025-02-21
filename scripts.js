@@ -211,6 +211,10 @@ document.getElementById('data-view-tab').addEventListener('click', function () {
     refreshDataView();
 });
 
+document.getElementById('linear-regression-tab').addEventListener('click', function () {
+    refreshDataView();
+});
+
 function refreshDataView() {
     if (current_df != null) {
         try {
